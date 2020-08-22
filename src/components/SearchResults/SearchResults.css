@@ -1,0 +1,47 @@
+.Global-search-results {
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    margin-top: 20px;
+}
+
+.Global-search-results-header {
+    margin: 0;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.Global-search-results-company_name {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Global-search-results-company_address {
+    text-transform: uppercase;
+}
+
+.Global-search-results-container {
+    border-top: 1px solid #f1f1f1;
+    padding: 10px 15px;
+    max-height: 500px;
+    overflow: auto;
+}
+
+.Global-search-results-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 12px;
+}
+
+.Global-search-results-item {
+    background-color: #f8f6f6;
+    padding: 15px;
+    margin-bottom: 1px;
+}
+
+.Global-search-results-item:hover {
+    cursor: pointer;
+    background-color: rgb(172, 208, 238);
+}

@@ -1,0 +1,31 @@
+.Company-info {
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 14px;
+}
+
+.Company-info-name {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.Company-info-status span {
+    color: rgb(90, 207, 90);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Company-info-row {
+    margin-bottom: 20px;
+}
+
+.Company-info-row-header {
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.Company-info-row-content {
+    margin-top: 5px;
+}

@@ -1,0 +1,29 @@
+.Global-search {
+    width: 60vw;
+    margin: 40px auto;
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+.Global-search-header {
+    margin: 0;
+    padding: 0;
+}
+
+.Global-search-form {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    align-items: baseline;
+}
+
+.Global-search-dropdown {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.Global-search-searchbar {
+    flex: 2;
+}
